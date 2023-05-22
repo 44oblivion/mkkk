@@ -1,0 +1,38 @@
+body{
+    font-family: Tahoma;
+}
+
+.line{
+    width: 100%;
+    background-color: #000;
+    height: 2px;
+}
+
+.title-text__top{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(89, 20, 20);
+}
+
+.image{
+    display:flex;
+    justify-content: end;
+    box-shadow: #000 ;
+}
+
+.image1{
+    width: 500px;
+    height: auto;
+}
+.misha{
+    margin-top: -350px;
+}
+
+.name{
+    margin-left: 50px;
+    font-size: 1.6em;
+}
+
+.aboutme{
+    line-height: 10px;
+}
